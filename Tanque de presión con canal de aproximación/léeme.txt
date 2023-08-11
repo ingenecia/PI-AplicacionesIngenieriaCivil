@@ -1,6 +1,5 @@
 Para la documentación y/o explicación, si se requiere, comunicarse con Ingenecia: +593 96 395 3992 o proyectoingenecia@gmail.com
 
-Los códigos están realizados en varios lenguajes que se encuentran.
-Se encuentran clasificados en carpetas, pero todos hacen lo mismo.
+Los códigos están realizados en varios lenguajes. Se encuentran clasificados en carpetas, pero todos hacen lo mismo.
 
 ** Aporte de: Isacc Alpala
